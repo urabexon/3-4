@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body{
+  background-color: gray;
+  text-align: center;
+  color:white;
+  font-family: serif, sans-serif;
+}
+
+p{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
